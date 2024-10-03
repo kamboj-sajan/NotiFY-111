@@ -31,7 +31,6 @@ function App() {
   );
 }
 
-export default App;
 
 createarea 
 import React, { useState } from "react";
@@ -96,7 +95,6 @@ function CreateArea(props) {
   );
 }
 
-export default CreateArea;
 
 
 header.jsx 
@@ -125,7 +123,6 @@ function Header() {
   );
 }
 
-export default Header;
 
 createarea
 import React, { useState } from "react";
@@ -195,7 +192,6 @@ function CreateArea(props) {
   );
 }
 
-export default CreateArea;
 
 view 
 import React from "react";
